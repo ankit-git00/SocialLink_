@@ -1,0 +1,11 @@
+.feed{
+    display: flex;
+    flex:5.5;
+    /* background-color: yellowgreen; */
+
+}
+
+.feedWrapper{
+    padding: 20px;
+    width: 100%;
+}

@@ -1,0 +1,33 @@
+.profileImgContainer{
+    position: relative;
+    margin-right: 10px;
+}
+
+.friend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.profileImg{
+    width: 44px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    /* position: relative; */
+}
+
+.onlineStatus{
+    background-color: #00f150;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top:-2px;
+     right: 2px; 
+     border: 2px solid white;
+    /* right:0px; */
+
+}
+.profileName{
+    font-weight: 500;
+}
