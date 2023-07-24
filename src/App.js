@@ -11,7 +11,8 @@ function App() {
   return (
     <div>
         {/* <Profile /> */}
-        <Login/>
+        {/* <Login/> */}
+        <Home/>
     </div>
 
   );
